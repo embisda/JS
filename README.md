@@ -5,3 +5,6 @@ Simple russian roulet game by js.
 # deposite
 Calculate your yield of a deposite.
 Подсчитай доходность своего депозита.
+
+# roulet
+Подсчет шанса выпадения красного, черного и зеро на рулетке.
