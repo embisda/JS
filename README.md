@@ -8,3 +8,7 @@ Calculate your yield of a deposite.
 
 # roulet
 Подсчет шанса выпадения красного, черного и зеро на рулетке.
+
+# black jack
+Black Jack game.
+Игра Блэк Джэк.
